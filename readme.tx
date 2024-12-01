@@ -1,3 +1,2 @@
-The "internet" is IPv6 addresses on the range fc00::/7.
-Let our edge server use the network fc00::/64
-Let other devices each have one /64 subnet starting with fc00:00:00:01/64.
+Don't be deceived: This won't work right out of the box.
+Some of the routing needs to be improved
